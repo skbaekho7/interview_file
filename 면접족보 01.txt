@@ -1,0 +1,25 @@
+[면접족보 01]
+
+1. 아래를 프로그래밍 하시오.(무조건 외우자)
+
+출력
+Hello World
+I am a programmer
+---------------
+
+public void static main(string[] args ){
+   system.out.print("출력");
+   system.out.print("Hello World");
+   system.out.print("I am a programmer");
+}
+
+
+2. 아래의 하드웨어에 대하여 설명하시오.
+- CPU 
+  : CPU란 Central Processing Unit의 약자로서, 
+
+  
+- 메모리
+- CPU가 2진수만 알아듣는 이유.
+
+3. OS의 역활은 무엇이며, OS의 종류에는 무엇이 있는가?
